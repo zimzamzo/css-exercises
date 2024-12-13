@@ -5,7 +5,8 @@
 .yellowbg {
     background-color: yellow;
 }
-.font-choice {
+.blackbg-whitetext,
+.yellowbg {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
