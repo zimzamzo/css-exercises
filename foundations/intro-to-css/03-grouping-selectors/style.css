@@ -1,0 +1,11 @@
+.blackbg-whitetext {
+    background-color: black;
+    color: white;
+}
+.yellowbg {
+    background-color: yellow;
+}
+.font-choice {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
